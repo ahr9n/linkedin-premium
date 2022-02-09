@@ -1,4 +1,4 @@
-# Linkedin Premium
+# LinkedIn Premium
 
 ## Interview Preparation
 LinkedIn interview preparation tools help you ace the most common interview questions across job positions with exclusive tips and sample answers from industry experts. Here are some samples for assessments of different categories:
